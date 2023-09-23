@@ -1,4 +1,3 @@
-
 hours = list(map(int,input("hours = ").split()))
 target = int(input("target = "))
 total = 0
